@@ -152,16 +152,12 @@
           <stringProp name="script">import java.util.UUID
 import groovy.json.JsonOutput
 
-// 1) pull the counter
 int cnt = Integer.parseInt(vars.get(&apos;counter&apos;))
 
-// 2) decide head flag: every 10th message -&gt; false
 boolean headFlag = (cnt % 10) != 0
 
-// 3) generate a random uuid
 String msgUuid = UUID.randomUUID().toString()
 
-// 4) build your JSON payload
 def payload = [
   msg_uuid: msgUuid,
   head:     headFlag,
@@ -169,7 +165,6 @@ def payload = [
   uri:      &apos;/post-message&apos;
 ]
 
-// 5) store it into a JMeter var
 vars.put(&apos;KAFKA_MESSAGE&apos;, JsonOutput.toJson(payload))
 </stringProp>
           <stringProp name="scriptLanguage">groovy</stringProp>
