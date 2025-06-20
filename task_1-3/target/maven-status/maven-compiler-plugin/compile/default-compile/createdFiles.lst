@@ -1,0 +1,5 @@
+com/example/stub/KafkaDbStubApplication.class
+com/example/stub/model/RecordEntity.class
+com/example/stub/repository/RecordRepository.class
+com/example/stub/service/KafkaMessageListener.class
+com/example/stub/dto/MessageDto.class

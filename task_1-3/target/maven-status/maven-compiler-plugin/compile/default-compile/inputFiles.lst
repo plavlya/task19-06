@@ -1,0 +1,5 @@
+/Users/plavlya/Downloads/demo 3/src/main/java/com/example/stub/KafkaDbStubApplication.java
+/Users/plavlya/Downloads/demo 3/src/main/java/com/example/stub/dto/MessageDto.java
+/Users/plavlya/Downloads/demo 3/src/main/java/com/example/stub/model/RecordEntity.java
+/Users/plavlya/Downloads/demo 3/src/main/java/com/example/stub/repository/RecordRepository.java
+/Users/plavlya/Downloads/demo 3/src/main/java/com/example/stub/service/KafkaMessageListener.java
