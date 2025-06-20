@@ -1,9 +1,9 @@
 
 #task 1-1
 
-[task_1-1/kafka-explorer.png](task_1-1/kafka-explorer.png)
+![task_1-1/kafka-explorer.png](task_1-1/kafka-explorer.png)
 
-[task_1-1/kafka-zookeeper.pg.png](task_1-1/kafka-zookeeper.pg.png)
+![task_1-1/kafka-zookeeper.pg.png](task_1-1/kafka-zookeeper.pg.png)
 
 #task 1-2
 [task_1-2/Screenshot_121.png]
