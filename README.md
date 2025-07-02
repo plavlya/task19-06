@@ -9,8 +9,6 @@
 
 ![task_1-2/Screenshot_120.png](task_1-2/Screenshot_120.png)
 
-![task_1-2/Screenshot_121.png](task_1-2/Screenshot_121.png)
-
 ![task_1-2/Screenshot_122.png](task_1-2/Screenshot_122.png)
 
 ![task_1-2/Screenshot_123.png](task_1-2/Screenshot_123.png)
